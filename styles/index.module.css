@@ -1,0 +1,19 @@
+.textCenter {
+    text-align: center;
+}
+
+.wFull {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.listItem {
+    list-style-type: none;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
