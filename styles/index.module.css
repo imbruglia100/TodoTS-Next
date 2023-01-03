@@ -9,7 +9,15 @@
     align-items: center;
 }
 
-.listItem {
+.toDoListItem {
+    list-style-type: none;
+}
+
+.toDoListItem:hover {
+    background-color: rgb(198, 255, 198);
+}
+
+.doneListItem {
     list-style-type: none;
 }
 
